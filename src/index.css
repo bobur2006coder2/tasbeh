@@ -1,0 +1,47 @@
+img{
+  margin-top: 50px;
+}
+
+.btnone{
+  position: absolute;
+  height: 160px;
+  right: 44.7%;
+  top: 46.1%;
+  width: 160px;
+  border-radius: 50%;
+  font-size: 20px;
+  text-transform: capitalize;
+  border: none;
+  background-color: rgb(47, 255, 50);
+  color: white;
+}
+
+.btntwo{
+  position: absolute;
+  height: 60px;
+  right: 41.7%;
+  top: 19.5%;
+  width: 260px;
+  border-radius: 5px;
+  font-size: 20px;
+  text-transform: capitalize;
+  border: none;
+  background-color: rgb(232, 240, 232);
+  color: black;
+  padding-top: 55px;
+}
+
+.btnthree{
+  position: absolute;
+  height: 50px;
+  right: 42.0%;
+  top: 37.6%;
+  width: 50px;
+  border-radius: 50%;
+  font-size: 11px;
+  text-transform: capitalize;
+  border: none;
+  background-color: rgb(236, 31, 16);
+  color: white;
+  /* padding-top: 55px; */
+}
