@@ -20,7 +20,7 @@ export default function App() {
     <div >
       <center>
         
-      <img src={img} alt=""/>
+      <img src={img} alt="" className='img'/>
       <span className='btntwo'>{num}</span>
       <button className='btnthree' onClick={()=>{count(0)}}>restart</button>
       <button className='btnone' onClick={()=>{ count(num+1) || myfunc() }}>start</button>

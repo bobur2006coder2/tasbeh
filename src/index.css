@@ -45,3 +45,55 @@ img{
   color: white;
   /* padding-top: 55px; */
 }
+
+@media (max-width:576px) {
+ 
+  .img{
+    width: 80%;
+    height: 300px;
+  }
+
+  .btnone{
+    position: absolute;
+    height: 94px;
+    right: 37.7%;
+    top: 32.5%;
+    width: 91px;
+    border-radius: 50%;
+    font-size: 17px;
+    text-transform: capitalize;
+    border: none;
+    background-color: rgb(47, 255, 50);
+    color: white;
+    
+  }
+  .btnthree{
+    position: absolute;
+    height: 40px;
+    right: 30%;
+    top: 26.6%;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 8px;
+    text-transform: capitalize;
+    border: none;
+    background-color: rgb(236, 31, 16);
+    color: white;
+  }
+
+  .btntwo{
+    position: absolute;
+    right: 30.7%;
+    top: 15.5%;
+    width: 142px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border: none;
+    background-color: rgb(232, 240, 232);
+    color: black;
+    padding-top: 28px;
+    height: 41px;
+    /* text-align: center; */
+  }
+}
