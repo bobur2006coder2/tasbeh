@@ -8,7 +8,7 @@ export default function App() {
   function myfunc() {
     let sp=document.querySelector("span")
     
-    if (num===10) {
+    if (num===100) {
       count("Alloh qo'llasin")
       
     }else if(num=="Alloh qo'llasin"){
